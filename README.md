@@ -10,7 +10,7 @@
     - First for loop to populate your list
     - Second for loop to print each number in the list multiplied by 2.
 
-4. Write a function is_even that takes an integer as input and returns if the number is odd or even.
+4. Write a function `is_even` that takes an integer as input and returns if the number is odd or even.
 
 5. Write a function `calculate_grade` that takes a student's score as input and returns their grade based on the following criteria:
    - 90 and above is an 'A'
