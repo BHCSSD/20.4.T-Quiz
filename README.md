@@ -2,7 +2,7 @@
 
 1. Write a function `sum_list` that takes a list `foo` of numbers as input and returns the sum of all the numbers in the list. You are **not** allowed to use the `sum()` function. In your answer, please include a print statement of your sum. 
    ```
-    foo = [23, 45, 67, 12, 100, 43, 89, 34, 56, 78, 91, 10, 54, 76, 32, 88, 200, 43, 67, 19, 70, 85, 29, 82, 15, 47, 61, 93, 28, 50, 74, 39, 85]
+   foo = [23, 45, 67, 12, 100, 43, 89, 34, 56, 78, 91, 10, 54, 76, 32, 88, 200, 43, 67, 19, 70, 85, 29, 82, 15, 47, 61, 93, 28, 50, 74, 39, 85]
 
    ```
 
